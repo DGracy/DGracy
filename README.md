@@ -2,7 +2,7 @@
 
 ### UCL | 23‘ BA linguistics -> 26’MSc language sciences
 
-- 🔭 I'm currently working on **NLP projects**
+- 🔭 I'm interested in **NLP projects**
 
 - 🌱 I'm currently learning **SQL/Excel/TTS/ASR**
 
